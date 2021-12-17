@@ -1,0 +1,2 @@
+[hosts]
+(Host) ansible_user=(username)
