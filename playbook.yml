@@ -1,5 +1,5 @@
 ---
-- hosts: 'IDbrokers-azure'
+- hosts: 'hosts'
   become: yes
   gather_facts: no
   vars:
